@@ -1,4 +1,4 @@
-Negotiator-AI
+Vendor AI
 ============
 
 Tail-spend SaaS negotiation agent with a LangGraph-powered backend and a React frontend.

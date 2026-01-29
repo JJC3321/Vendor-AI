@@ -122,7 +122,7 @@ export function App() {
   return (
     <div className="page">
       <header>
-        <h1>Negotiator-AI</h1>
+        <h1>Vendor AI</h1>
         <p>Tail-spend SaaS negotiation agent with human-in-the-loop email approval.</p>
       </header>
 

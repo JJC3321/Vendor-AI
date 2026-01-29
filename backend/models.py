@@ -24,7 +24,7 @@ class NegotiationStatus(str, Enum):
 
 
 class EmailDirection(str, Enum):
-    """Direction of an email relative to the Negotiator-AI system."""
+    """Direction of an email relative to the Vendor AI system."""
 
     INBOUND = "inbound"
     OUTBOUND = "outbound"

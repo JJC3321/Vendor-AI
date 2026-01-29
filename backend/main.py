@@ -19,7 +19,7 @@ from schemas import EmailPayload, NegotiationState
 settings = get_settings()
 graph_app = build_graph()
 
-app = FastAPI(title="Negotiator-AI", version="0.1.0")
+app = FastAPI(title="Vendor AI", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
