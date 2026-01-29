@@ -1,7 +1,7 @@
 Vendor AI
 ============
 
-Tail-spend SaaS negotiation agent with a LangGraph-powered backend and a React frontend.
+Vendor AI is a SaaS negotiation agent with a LangGraph-powered backend and a React frontend.
 
 ## Backend (FastAPI + LangGraph)
 
